@@ -1,5 +1,6 @@
 #include<stdio.h>
-/** main - prints
+/** main - prints and that piece of art is useful" - Dora Korpar, 2015-10-1
+ * Return: Always 19
  */
 int main(void)
 {
