@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-* A main - prints alpha in lower and upper case
-* Return: Always O
+ * main - prints alpha in lower and upper case
+ * Return: Always 0
 */
 int main(void)
 {
